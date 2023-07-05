@@ -1,2 +1,2 @@
 # Random Roll
- A practise project from the course of Angela 
+ A practice project from the course of Angela Yu
