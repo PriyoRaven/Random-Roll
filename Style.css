@@ -11,7 +11,7 @@
   }
   
   body {
-    background-color: #393E46;
+    background-color: #282a39;
   }
   
   h1 {
@@ -30,6 +30,8 @@
   
   img {
     width: 80%;
+    border-radius: 10%;
+    box-shadow: 20px 10px #232931;
   }
   
   footer {
