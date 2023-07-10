@@ -1,5 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  caret-color: transparent;
+}
+
 .container {
-    width: 70%;
+    width: 100%;
     margin: auto;
     text-align: center;
   }
@@ -34,6 +42,27 @@
     box-shadow: 20px 10px #232931;
   }
   
+  .rbtn {
+    display: block;
+    text-align: center;
+    margin: 10px;
+    margin-left: 45%;
+    min-width: 100px;
+    margin-right: 45%;
+    border: 3px solid rgb(192, 11, 11);
+    text-decoration: none;
+    font-family: cursive;
+    border-radius: 35px;
+    padding: 10px;
+    color: #4ECCA3;
+    transition: 0.2s all ease-in-out;
+  }
+
+  .rbtn:hover {
+    background-color: wheat;
+    color: black;
+  }
+
   footer {
     margin-top: 5%;
     color: #EEEEEE;
